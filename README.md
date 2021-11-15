@@ -10,4 +10,18 @@ Test Ordner
 
 Das ist _ein Test_ oder *Test*.
 
+___
+
+---
+
 Das ist __ein Test__ oder **Test**.
+
+Das ist ___ein Test___ oder ***Test***.
+
+[Google](https://google.com)
+ 
+ | Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+ 
