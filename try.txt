@@ -1,6 +1,6 @@
 
 Farbauswahl
 
-Rot
-Grün
+Magenta
 Blau
+Gelb
