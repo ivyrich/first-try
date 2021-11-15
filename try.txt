@@ -5,3 +5,4 @@ Magenta
 Blau
 Gelb
 Grün
+lila
